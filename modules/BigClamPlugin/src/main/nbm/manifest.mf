@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Bigclam Plugin
+OpenIDE-Module-Short-Description: This is a plugin for BigClam algorithm in gephi
+OpenIDE-Module-Long-Description: This is a plugin for BigClam algorithm in gephi
+OpenIDE-Module-Display-Category: Tool
